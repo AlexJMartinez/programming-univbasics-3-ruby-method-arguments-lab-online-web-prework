@@ -10,8 +10,8 @@ end
 
 
 
-def introduction_with_language_optional(edwin, python, language="python")
-  puts "Hi, my name is #{edwin} and I am learning to program in #{python}."
+def introduction_with_language_optional(edwin, ruby, language="ruby")
+  puts "Hi, my name is #{edwin} and I am learning to program in #{ruby}."
 end
 
 
