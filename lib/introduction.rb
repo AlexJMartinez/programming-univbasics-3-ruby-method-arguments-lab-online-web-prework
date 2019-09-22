@@ -6,7 +6,7 @@ def introduction_with_language(josh, react)
   puts "Hi, my name is #{josh} and I am learning to program in #{react}."
 end
 
-def introduction_with_language_optional(edwin, language="ruby")
+def introduction_with_language_optional(edwin, ruby, language="ruby")
   puts "Hi, my name is #{edwin} and I am learning to program in #{ruby}."
 end
 
